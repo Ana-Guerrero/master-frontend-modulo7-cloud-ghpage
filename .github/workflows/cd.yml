@@ -25,4 +25,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: npm run deploy -- -r https://github.com/Ana-Guerrero/master-frontend-modulo7-cloud-ghpage
+        run: npm run deploy -- -r git@github.com:Ana-Guerrero/master-frontend-modulo7-cloud-ghpage
