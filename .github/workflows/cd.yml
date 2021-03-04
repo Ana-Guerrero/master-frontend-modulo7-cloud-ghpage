@@ -26,7 +26,3 @@ jobs:
         run: npm run build
       - name: Deploy
         run: npm run deploy -- -r git@github.com:Ana-Guerrero/master-frontend-modulo7-cloud-ghpage.git
-<<<<<<< HEAD
-=======
-
->>>>>>> 15b76849062dc7e7c8fd0e05ab401fedc606957e
